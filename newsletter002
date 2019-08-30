@@ -1,0 +1,1099 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+
+<title>20190829 TLDR 002</title>
+
+
+
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="x-apple-disable-message-reformatting">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="date=no">
+<meta name="format-detection" content="address=no">
+<meta name="format-detection" content="email=no">
+    <title>
+</title>
+    <style type="text/css">
+
+    @media (max-width: 801px) {
+      .o_col {
+        box-sizing: border-box;
+        display: block !important;
+        width: 100% !important;
+        word-break: break-word;
+        padding-left: 12px !important;
+        padding-right: 12px !important; }
+      .o_col-b {
+        box-sizing: border-box;
+        display: block !important;
+        width: 100% !important;
+        word-break: break-word; }
+      img,
+      .o_col-full {
+        width: 100%; }
+      .o_col-i {
+        margin: 0 auto; }
+      .o_block {
+        width: 100% !important;
+      }
+      .o_hide-lg {
+        display: inline-block !important;
+        font-size: inherit !important;
+        max-height: none !important;
+        line-height: inherit !important;
+        overflow: visible !important;
+        width: auto !important;
+        visibility: visible !important; }
+      .o_hide-xs {
+        display: none !important;
+        font-size: 0 !important;
+        max-height: 0 !important;
+        width: 0 !important;
+        line-height: 0 !important;
+        overflow: hidden !important;
+        visibility: hidden !important;
+        height: 0 !important; }
+      .o_xs-center {
+        text-align: center !important; }
+      .o_xs-left {
+        text-align: left !important; }
+      .o_xs-right {
+        text-align: left !important; }
+      table.o_xs-left {
+        margin-left: 0 !important;
+        margin-right: auto !important;
+        float: none !important; }
+      table.o_xs-right {
+        margin-left: auto !important;
+        margin-right: 0 !important;
+        float: none !important; }
+      table.o_xs-center {
+        margin-left: auto !important;
+        margin-right: auto !important;
+        float: none !important; }
+      h1.o_heading {
+        font-size: 26px !important;
+      }
+      .o_xs-py-md {
+        padding-top: 24px !important;
+        padding-bottom: 24px !important; }
+      .o_xs-pt {
+        padding-top: 16px !important; }
+      .o_xs-pt-0 {
+        padding-top: 0 !important; }
+      .o_xs-pt-md {
+        padding-top: 24px !important; }
+      .o_xs-pb {
+        padding-bottom: 16px !important; }
+      .o_xs-pb-0 {
+        padding-bottom: 0 !important; }
+      .o_xs-pb-md {
+        padding-bottom: 24px !important; }
+      .o_xs-py-0 {
+        padding-top: 0 !important;
+        padding-bottom: 0 !important; }
+      .o_xs-py-md {
+        padding-top: 24px !important;
+        padding-bottom: 24px !important; }
+      .o_xs-px {
+        padding-left: 12px !important;
+        padding-right: 12px !important; }
+      .o_xs-br {
+        border-radius: 4px !important; }
+      .o_xs-br-b {
+        border-radius: 0 0 4px 4px !important; }
+      .o_xs-br-0 {
+        border-radius: 0 !important; }
+      .o_xs-br-0 {
+        border-right: 0!important;
+        }
+      .o_xs-bb-0 {
+        border-bottom: 0!important;
+      }
+      .o_xs-text {
+        font-size: 14px!important;
+        line-height: 18px!important;
+      }
+      }
+
+    @media screen {
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important; }
+    }
+a[x-apple-data-detectors] {
+color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+}
+    </style>
+    <!--[if mso]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+  
+
+</head>
+<body marginwidth="0" marginheight="0" style="margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0; width: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" offset="0" topmargin="0" leftmargin="0">
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+    
+    
+    <!--[if mso]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+  
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+    
+    
+    <!--[if mso]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+  
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+    
+    
+    <!--[if mso]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+  
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+    
+    
+    <!--[if mso]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+  
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    <!--[if mso]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+  
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    <!--[if mso]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+  
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    <!--[if mso]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+  
+
+
+<table data-module="header-b" data-group="header" data-thumbnail="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2019/08/28/UVGTpu1Eq63bOtLymcWoaDB5/tldr/thumbnails/header-b.png" width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+      
+        <tr>
+          <td class="o_bg-primary" align="center" data-bgcolor="Bg Primary" style="background-color: #FFCC00;">
+            <table class="o_block o_bg-primary" cellspacing="0" cellpadding="0" border="0" role="presentation" data-bgcolor="Bg Primary" style="width: 800px;margin: 0 auto;background-color: #FFCC00;">
+              
+                <tr style="vertical-align: top;">
+                  <th width="592" class="o_col o_pl-xl o_pr-xl o_pt-md o_pb-lg o_curier o_text-xs o_text-dark" align="center" data-color="Dark" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: normal;font-size: 15px;line-height: 18px;color: #000000;padding-top: 24px;padding-bottom: 32px;padding-left: 104px;padding-right: 104px;">
+                    <p class="o_mb-lg" style="margin-top: 0px;margin-bottom: 32px;">f0rest is topping the charts at the Major. In opposite world</p>
+                    <p style="margin-top: 0px;margin-bottom: 0px;"><a href="https://www.readtldr.gg/" style="text-decoration: none;outline: none;"><img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/tldr_logo/tldrlogo_aug28_white.png" width="124" height="56" alt="tl;dr" style="max-width: 124px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"></a></p>
+                  </th>
+                </tr>
+              
+            </table>
+          </td>
+        </tr>
+      
+    </table><table data-module="matches-a" data-group="content" data-thumbnail="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2019/08/28/UVGTpu1Eq63bOtLymcWoaDB5/tldr/thumbnails/matches-a.png" width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" style="opacity: 1;">
+      
+        <tr>
+          <td class="o_bg-primary" align="center" data-bgcolor="Bg Primary" style="background-color: #FFCC00;">
+            <table class="o_block o_bg-white" cellspacing="0" cellpadding="0" border="0" role="presentation" data-bgcolor="Bg White" style="width: 800px;margin: 0 auto;background-color: #ffffff;">
+              
+                <tr style="vertical-align: top;">
+                  <td colspan="2" width="592" class="o_col o_pl-xl o_pr-xl o_pt" align="left" style="padding-top: 16px;padding-left: 104px;padding-right: 104px;">
+                    <table cellspacing="0" cellpadding="0" border="0" role="presentation">
+                      
+                        <tr style="vertical-align: top;">
+                          <td class="o_bg-dark o_br o_py-xs o_px-xs o_text-white" align="left" data-bgcolor="Bg Dark" data-color="White" style="background-color: #000000;color: #ffffff;border-radius: 4px;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <p class="o_curier o_caps" style="margin-top: 0px;margin-bottom: 0px;font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;text-transform: uppercase;font-size: 10px;line-height: 10px;letter-spacing: 1px;">Match highlights</p>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <td style="font-size: 8px; line-height: 8px; height: 8px;">&nbsp; </td>
+                        </tr>
+                      
+                    </table>
+                  </td>
+                </tr>
+                <tr style="vertical-align: top;">
+                  <th width="280" class="o_col o_pl-xl o_pr o_br-grey o_xs-br-0" align="left" data-border-color="Border Grey" style="border-right: 2px solid #E9E9E9;padding-left: 104px;padding-right: 16px;">
+                    <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                      
+                        <tr style="vertical-align: top;">
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            AVANG... <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/avangar.png" width="20" height="20" alt="avangar" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;">
+                          </th>
+                          <th width="54" class="o_py-xs o_px-xs o_bb-grey" align="center" data-border-color="Border Grey" style="border-bottom: 2px solid #E9E9E9;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs o_br-white" align="center" data-bgcolor="Bg Primary2" data-border-color="Border White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;border-right: 2px solid #ffffff;">16</th>
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs" align="center" data-bgcolor="Bg Primary2" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;">13</th>
+                                </tr>
+                              
+                            </table>
+                          </th>
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="left" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/renegades.png" alt="renegades" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> Rene...</th>
+                          <th width="24" class="o_py-xs o_bb-grey o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <a href="https://www.hltv.org/matches/2335622/renegades-vs-avangar-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;"><img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/icons/view_stats.png" width="22" height="10" alt="" style="max-width: 22px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;"></a>
+                          </th>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            CR4ZY <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/cr4zy.png" alt="cr4zy" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;">
+                          </th>
+                          <th width="54" class="o_py-xs o_px-xs o_bb-grey" align="center" data-border-color="Border Grey" style="border-bottom: 2px solid #E9E9E9;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs o_br-white" align="center" data-bgcolor="Bg Primary2" data-border-color="Border White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;border-right: 2px solid #ffffff;">16</th>
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs" align="center" data-bgcolor="Bg Primary2" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;">10</th>
+                                </tr>
+                              
+                            </table>
+                          </th>
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="left" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/nip.png" alt="NiP" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> NiP</th>
+                          <th width="24" class="o_py-xs o_bb-grey o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <a href="https://www.hltv.org/matches/2335624/nip-vs-cr4zy-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;"><img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/icons/view_stats.png" width="22" height="10" alt="" style="max-width: 22px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;"></a>
+                          </th>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            NRG&nbsp;<img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/nrg.png" alt="nrg" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;">
+                          </th>
+                          <th width="54" class="o_py-xs o_px-xs o_bb-grey" align="center" data-border-color="Border Grey" style="border-bottom: 2px solid #E9E9E9;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs o_br-white" align="center" data-bgcolor="Bg Primary2" data-border-color="Border White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;border-right: 2px solid #ffffff;">16</th>
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs" align="center" data-bgcolor="Bg Primary2" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;">&nbsp;9</th>
+                                </tr>
+                
+                              
+                            </table>
+                          </th>
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="left" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/liquid.png" alt="liquid" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> Liquid</th>
+                          <th width="24" class="o_py-xs o_bb-grey o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <a href="https://www.hltv.org/matches/2335626/liquid-vs-nrg-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;"><img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/icons/view_stats.png" width="22" height="10" alt="" style="max-width: 22px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;"></a>
+                          </th>
+                        </tr>
+                  <tr style="vertical-align: top;">
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            ENCE <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/ence.png" alt="ence" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;">
+                          </th>
+                          <th width="54" class="o_py-xs o_px-xs o_bb-grey" align="center" data-border-color="Border Grey" style="border-bottom: 2px solid #E9E9E9;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs o_br-white" align="center" data-bgcolor="Bg Primary2" data-border-color="Border White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;border-right: 2px solid #ffffff;">16</th>
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs" align="center" data-bgcolor="Bg Primary2" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;">&nbsp;8</th>
+                                </tr>
+                
+                              
+                            </table>
+                          </th>
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="left" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/mibr.png" alt="mibr" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> MIBR</th>
+                          <th width="24" class="o_py-xs o_bb-grey o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <a href="https://www.hltv.org/matches/2335628/ence-vs-mibr-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;"><img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/icons/view_stats.png" width="22" height="10" alt="" style="max-width: 22px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;"></a>
+                </th></tr>
+                      
+                    </table>
+                  </th>
+                  <th width="280" class="o_col o_pr-xl o_pl" align="left" style="padding-left: 16px;padding-right: 104px;">
+                    <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                      
+                        <tr style="vertical-align: top;">
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">&nbsp;&nbsp;&nbsp;&nbsp;Astralis&nbsp;<img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/astralis.png" alt="astralis" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;">
+                          </th>
+                          <th width="54" class="o_py-xs o_px-xs o_bb-grey" align="center" data-border-color="Border Grey" style="border-bottom: 2px solid #E9E9E9;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              <tr style="vertical-align: top;">
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs o_br-white" align="center" data-bgcolor="Bg Primary2" data-border-color="Border White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;border-right: 2px solid #ffffff;">16</th>
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs" align="center" data-bgcolor="Bg Primary2" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;">&nbsp;7</th>
+                                </tr>
+                              
+                            </table>
+                          </th>
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="left" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/g2.png" alt="g2" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> G2</th>
+                          <th width="24" class="o_py-xs o_bb-grey o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <a href="https://www.hltv.org/matches/2335629/astralis-vs-g2-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;"><img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/icons/view_stats.png" width="22" height="10" alt="" style="max-width: 22px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;"></a>
+                          </th>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">&nbsp;NaVi <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/natus_vincere.png" alt="navi" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;">
+                          </th>
+                          <th width="54" class="o_py-xs o_px-xs o_bb-grey" align="center" data-border-color="Border Grey" style="border-bottom: 2px solid #E9E9E9;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs o_br-white" align="center" data-bgcolor="Bg Primary2" data-border-color="Border White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;border-right: 2px solid #ffffff;">16</th>
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs" align="center" data-bgcolor="Bg Primary2" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;">&nbsp;7</th>
+                                </tr>
+                              
+                            </table>
+                          </th>
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="left" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/dream_eaters.png" alt="Dream Eaters" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> Dream...</th>
+                          <th width="24" class="o_py-xs o_bb-grey o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <a href="https://www.hltv.org/matches/2335623/natus-vincere-vs-dreameaters-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;"><img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/icons/view_stats.png" width="22" height="10" alt="" style="max-width: 22px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;"></a>
+                          </th>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            mouz <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/mousesports.png" alt="mousesports" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;">
+                          </th>
+                          <th width="54" class="o_py-xs o_px-xs o_bb-grey" align="center" data-border-color="Border Grey" style="border-bottom: 2px solid #E9E9E9;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs o_br-white" align="center" data-bgcolor="Bg Primary2" data-border-color="Border White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;border-right: 2px solid #ffffff;">16</th>
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs" align="center" data-bgcolor="Bg Primary2" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;">13</th>
+                                </tr>
+                              
+                            </table>
+                          </th>
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="left" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/north.png" alt="north" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> North</th>
+                          <th width="24" class="o_py-xs o_bb-grey o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <a href="https://www.hltv.org/matches/2335619/faze-vs-mousesports-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;"><img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/icons/view_stats.png" width="22" height="10" alt="" style="max-width: 22px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;"></a>
+                          </th>
+                        </tr>
+            <tr style="vertical-align: top;">
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            Vitality&nbsp;<img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/vitality.png" alt="vitality" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;">
+                          </th>
+                          <th width="54" class="o_py-xs o_px-xs o_bb-grey" align="center" data-border-color="Border Grey" style="border-bottom: 2px solid #E9E9E9;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs o_br-white" align="center" data-bgcolor="Bg Primary2" data-border-color="Border White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;border-right: 2px solid #ffffff;">16</th>
+                                  <th class="o_bg-primary2 o_bold o_curier o_text-xxs" align="center" data-bgcolor="Bg Primary2" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 12px;line-height: 22px;background-color: #FFD633;">&nbsp;7</th>
+                                </tr>
+                              
+                            </table>
+                          </th>
+                          <th class="o_py-xs o_bb-grey o_bold o_sans o_text-xxs" align="left" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/faze.png" alt="FaZe" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;">&nbsp;FaZe</th>
+                          <th width="24" class="o_py-xs o_bb-grey o_sans o_text-xxs" align="right" data-border-color="Border Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height: 22px;border-bottom: 2px solid #E9E9E9;padding-top: 8px;padding-bottom: 8px;">
+                            <a href="https://www.hltv.org/matches/2335627/faze-vs-vitality-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;"><img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/icons/view_stats.png" width="22" height="10" alt="" style="max-width: 22px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;"></a>
+                          </th>
+                        </tr>
+                      
+                    </table>
+                  </th>
+                </tr>
+                <tr style="vertical-align: top;">
+                  <td colspan="2" width="592" class="o_col o_pl-xl o_pr-xl o_pt-md o_pb o_sans o_text o_text-dark o_bb-primary" align="left" data-color="Dark" data-border-color="Border Primary" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;border-bottom: 2px solid #FFCC00;padding-top: 24px;padding-bottom: 16px;padding-left: 104px;padding-right: 104px;">
+                    <ul class="o_mb-md" style="padding-left: 24px;margin-bottom: 24px;">
+                      <li class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">
+                        <strong>A s1mple task</strong>: NaVi made it look a lot easier this time around as s1mple and Boombl4 combined to make an unstoppable ball of firepower.</li>
+                      <li class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">
+                       <strong>RIP pick'ems</strong>: #1 ranked Liquid got all dehydrated on a Brehze afternoon in the desert of Dust II.
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+              
+            </table>
+          </td>
+        </tr>
+      
+    </table><table data-module="story-b" data-group="story" data-thumbnail="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2019/08/28/UVGTpu1Eq63bOtLymcWoaDB5/tldr/thumbnails/story-b.png" width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+      
+        <tr>
+          <td class="o_bg-primary" align="center" data-bgcolor="Bg Primary" style="background-color: #FFCC00;">
+            <table class="o_block o_bg-white" cellspacing="0" cellpadding="0" border="0" role="presentation" data-bgcolor="Bg White" style="width: 800px;margin: 0 auto;background-color: #ffffff;">
+              
+                <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_pl-xl o_pr-xl o_pt o_pb o_sans o_text o_text-dark" align="left" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;padding-top: 16px;padding-bottom: 16px;padding-left: 104px;padding-right: 104px;">
+                    <table cellspacing="0" cellpadding="0" border="0" role="presentation">
+                      
+                        <tr style="vertical-align: top;">
+                          <td class="o_bg-dark o_br o_py-xs o_px-xs o_text-white" align="left" data-bgcolor="Bg Dark" data-color="White" style="background-color: #000000;color: #ffffff;border-radius: 4px;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <p class="o_curier o_caps" style="margin-top: 0px;margin-bottom: 0px;font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;text-transform: uppercase;font-size: 10px;line-height: 10px;letter-spacing: 1px;">fauna jokes aplenty</p>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <td style="font-size: 8px; line-height: 8px; height: 8px;">&nbsp; </td>
+                        </tr>
+                      
+                    </table>
+                    <h1 class="o_heading o_text-dark" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;color: #000000;margin-top: 0px;margin-bottom: 0px;font-size: 26px;line-height: 30px;">NiP slip up as f0rest is not oak-ay <i>ahem</i></h1>
+                  </td>
+                </tr>
+                   <tr style="vertical-align: top;">
+                  <td width="800" class="o_col-b o_sans o_text o_text-dark" align="left" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;">
+                    <p style="margin-top: 0px;margin-bottom: 0px;"><img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/f0rest_aug29_800x500.jpg" width="800" height="500" alt="" style="max-width: 800px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;"></p>
+                  </td>
+                </tr>
+                <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_pl-xl o_pr-xl o_pt-xs o_pb-md o_sans o_text-xxs o_text-grey" align="left" data-color="Grey" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height: 22px;color: #7C7C7C;padding-top: 8px;padding-bottom: 12px;padding-left: 104px;padding-right: 104px;">
+                    <p style="margin-top: 0px;margin-bottom: 0px;">Source: StarLadder /&nbsp;Igor Bezborodov</p>
+                  </td>
+                </tr>
+                <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_pl-xl o_pr-xl o_sans o_text o_text-dark" align="left" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;padding-left: 104px;padding-right: 104px;border-bottom: 2px solid #FFCC00">
+                    <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">
+					  <s>Nothing in Paypal</s> Ninjas in Pyjamas crashed to a 0-2 start, after a 10-16 loss to CR4ZY on Train. Despite Golden standing in, it was once again the experienced head and <b>bushy beard of f0rest, who could only cut down 9</b> onrushing enemies. <i>Life's a birch, and then you die. 21 times.</i>
+					   </p><p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">One can only assume the Swedish veteran has been busy looking after his new baby, and having brought new life into the world must feel pretty guilty about taking virtual lives out. <i>At least there's one f0rest that isn't on fire</i>.</p>
+					<p class="o_mb" style="margin-top: 0px;margin-bottom: 32px;">The legendary Swedish organisation, that apparently went 87-0 at some point (though no living human has any recollection), face elimination as they take on North in an 0-2 game.</p>
+                  </td>
+                </tr>
+              
+            </table>
+          </td>
+        </tr>
+      
+    </table><table data-module="story-c" data-group="story" data-thumbnail="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2019/08/28/UVGTpu1Eq63bOtLymcWoaDB5/tldr/thumbnails/story-c.png" width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" style="opacity: 1;">
+      
+        <tr>
+          <td class="o_bg-primary" align="center" data-bgcolor="Bg Primary" style="background-color: #FFCC00;">
+            <table class="o_block o_bg-white" cellspacing="0" cellpadding="0" border="0" role="presentation" data-bgcolor="Bg White" style="width: 800px;margin: 0 auto;background-color: #ffffff;">
+              
+                <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_pl-xl o_pr-xl o_pt o_pb o_sans o_text o_text-dark" align="left" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;padding-top: 16px;padding-bottom: 16px;padding-left: 104px;padding-right: 104px;">
+                    <table cellspacing="0" cellpadding="0" border="0" role="presentation">
+                      
+                        <tr style="vertical-align: top;">
+                          <td class="o_bg-dark o_br o_py-xs o_px-xs o_text-white" align="left" data-bgcolor="Bg Dark" data-color="White" style="background-color: #000000;color: #ffffff;border-radius: 4px;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <p class="o_curier o_caps" style="margin-top: 0px;margin-bottom: 0px;font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;text-transform: uppercase;font-size: 10px;line-height: 10px;letter-spacing: 1px;">That G2 fail</p>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <td style="font-size: 8px; line-height: 8px; height: 8px;">&nbsp; </td>
+                        </tr>
+                      
+                    </table>
+                    <h1 class="o_heading o_text-dark" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;color: #000000;margin-top: 0px;margin-bottom: 0px;font-size: 26px;line-height: 30px;">What else happened?</h1>
+                  </td>
+                </tr>
+                <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_pl-xl o_pr-xl o_sans o_text o_text-dark" align="left" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;padding-left: 104px;padding-right: 104px;border-bottom: 2px solid #FFCC00;">
+              <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">
+					   They say everything in Australia is out to kill you - <i>we can only assume that the period in NA has turned Renegades American</i>. They were not ready for buster, the <b>Kazakh killer</b>, as he dropped 26 frags on everyone's favourite map, Vertigo, to sink Renegades into the 0-2 bracket.
+					 </p>  <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">
+					Boombl4 chewed up and spat out the DreamEaters in a brutal Terrorist side performance. The Russian underdogs <b>turned into a chew-toy for the new boy</b>, as he rolled through their meagre CT holds. <i>s1mple is alright too, we guess.</i></p>
+					  <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">North battled back from a huge deficit just to run through a smoke into the grateful arms of chrisJ. <b>The Terrifying Dutchman sprayed</b> down four in a PaszaBiceps-esque highlight, to apply the Heimlich manoeuvre to a karrigan-led team (almost) choking on Inferno. <i>Sound familiar?</i></p><p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">According to Google, sloths sleep somewhere between 15-18 hours a day; <i>NRG apparently caught NAF during this period</i>. He posted only 7 frags in 25 rounds as CeRq drove a bulldozer through the world's number one team.</p>
+					<p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">After a monster performance yesterday, <b>rain couldn't weather the storm</b> that Vitality brought to the sun-soaked Dust II. The Norwegian had a seriously slow start and Vitality punished him. <i>Instead, the forecast was 'cloudy with a chance of ZywOo killing everyone in sight'.</i> </p>
+
+<p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">It was... <i>sigh...</i> easy for ENCE against MIBR. Despite TACO turning into coldzera 2.0 (<i>crazy what you can do, when you are the one doing the baiting</i>), Aleksib sent a message to his teammates with a stellar performance. Still no smile, though..</p>
+
+					<p class="o_mb" style="margin-top: 0px;margin-bottom: 32px;">Here at tl;dr, we believe the CT side is much easier when you defuse the bomb. G2, on the other hand, don't. With four of them alive in the final round they just refused to defuse. Not like the French to surrender. <b>Apparently they don't sell defuse kits</b> at <a data-color="Secondary" class="o_text-secondary o_underline" href="https://g2esports.com/shop?ref=tldr" style="text-decoration: none;outline: none;color: #5200FF;display: inline;border-bottom-width: 2px;border-bottom-style: solid;"><span data-color="Dark" class="o_text-dark" style="color: #000000;">g2esports.com/shop</span></a></p>
+                  </td>
+                </tr>
+               
+              
+            </table>
+          </td>
+        </tr>
+      
+    </table>
+          
+        
+      
+    
+
+<table data-module="sponsored-native-image" data-group="sponsored" data-thumbnail="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2019/08/28/UVGTpu1Eq63bOtLymcWoaDB5/tldr/thumbnails/sponsored-native-image.png" width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+      
+        <tr>
+          <td class="o_bg-primary" align="center" data-bgcolor="Bg Primary" style="background-color: #FFCC00;">
+            <table class="o_block o_bg-white" cellspacing="0" cellpadding="0" border="0" role="presentation" data-bgcolor="Bg White" style="width: 800px;margin: 0 auto;background-color: #ffffff;">
+              
+                <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_pl-xl o_pr-xl o_pt o_pb o_sans o_text o_text-dark" align="left" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;padding-top: 16px;padding-bottom: 16px;padding-left: 104px;padding-right: 104px;">
+                    <table cellspacing="0" cellpadding="0" border="0" role="presentation">
+                      
+                        <tr style="vertical-align: top;">
+                          <td class="o_bg-dark o_br o_py-xs o_px-xs o_text-white" align="left" data-bgcolor="Bg Dark" data-color="White" style="background-color: #000000;color: #ffffff;border-radius: 4px;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <p class="o_curier o_caps" style="margin-top: 0px;margin-bottom: 0px;font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;text-transform: uppercase;font-size: 10px;line-height: 10px;letter-spacing: 1px;">REFER FRIENDS BLA BLA</p>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <td style="font-size: 8px; line-height: 8px; height: 8px;">&nbsp; </td>
+                        </tr>
+                      
+                    </table>
+                    <h1 class="o_heading o_text-dark" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;color: #000000;margin-top: 0px;margin-bottom: 0px;font-size: 26px;line-height: 30px;"><a data-color="Dark" class="o_text-dark" href="#" style="text-decoration: none;outline: none;color: #000000;">Too tired; can't (one) Deag? We've got you</a></h1>
+                  </td>
+                </tr>
+                <tr style="vertical-align: top;">
+                  <td width="800" class="o_col-b o_sans o_text o_text-dark" align="left" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;">
+                    <p style="margin-top: 0px;margin-bottom: 0px;"><img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/giveaway_aug29_800x500.jpg" width="800" height="500" alt="" style="max-width: 800px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;"></p>
+                  </td>
+                </tr>
+                <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_pl-xl o_pr-xl o_pt-md o_pb-lg o_sans o_text o_text-dark o_bb-primary" align="left" data-color="Dark" data-border-color="Border Primary" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;border-bottom: 2px solid #FFCC00;padding-top: 24px;padding-bottom: 32px;padding-left: 104px;padding-right: 104px;">
+                    <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">
+                     We like our deagle like we like our takes - hot ⚡️- and we like our news like we like our work day - fast 🌩 that's why we're offering you the chance to win a Desert Eagle - Blaze or one of five tubs of G Fuel to keep you fired up in more ways than one! 
+                    </p>
+                    <p class="o_mb" style="margin-top: 0px;margin-bottom: 32px;">
+                      Refer your friends or be a loyal reader and you'll be entered into the giveaway immediately. And, because we love you guys who are supporting us from the start, we might have a special bonus code for you tomorrow 👀</p>
+                   
+                    <table align="center" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                      
+                        <tr style="vertical-align: top;">
+                          <td class="o_btn o_bg-secondary o_sans o_text-xxs o_caps o_bold o_text-white o_link" align="center" valign="middle" data-bgcolor="Bg Secondary" data-color="White" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;text-transform: uppercase;font-size: 12px;line-height: 22px;letter-spacing: 1px;mso-padding-alt: 15px 20px;background-color: #4200CC;color: #ffffff;">
+                            <a data-color="White" href="https://example.com/" style="text-decoration: none;outline: none;display: block;padding: 15px 20px;mso-text-raise: 3px;color: #ffffff;">ENTER GIVEAWAY</a>
+                          </td>
+                          <td width="45" class="o_btn-xs o_bg-secondary2 o_sans o_text-xxs o_caps o_bold o_text-white o_link" align="center" valign="middle" data-bgcolor="Bg Secondary2" data-color="White" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;text-transform: uppercase;font-size: 12px;line-height: 22px;letter-spacing: 1px;mso-padding-alt: 10px 8px;background-color: #210066;color: #ffffff;">
+                            <a data-color="White" href="https://example.com/" style="text-decoration: none;outline: none;display: block;padding: 10px 8px;mso-text-raise: 3px;color: #ffffff;"><img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/icons/chevron-right.png" width="12" height="12" alt="" style="max-width: 12px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;"></a>
+                          </td>
+                        </tr>
+                      
+                    </table>
+                  </td>
+                </tr>
+              
+            </table>
+          </td>
+        </tr>
+      
+    </table><table data-module="story-c" data-group="story" data-thumbnail="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2019/08/28/UVGTpu1Eq63bOtLymcWoaDB5/tldr/thumbnails/story-c.png" width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" style="opacity: 1;">
+      
+        <tr>
+          <td class="o_bg-primary" align="center" data-bgcolor="Bg Primary" style="background-color: #FFCC00;">
+            <table class="o_block o_bg-white" cellspacing="0" cellpadding="0" border="0" role="presentation" data-bgcolor="Bg White" style="width: 800px;margin: 0 auto;background-color: #ffffff;">
+              
+                <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_pl-xl o_pr-xl o_pt o_pb o_sans o_text o_text-dark" align="left" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;padding-top: 16px;padding-bottom: 16px;padding-left: 104px;padding-right: 104px;">
+                    <table cellspacing="0" cellpadding="0" border="0" role="presentation">
+                      
+                        <tr style="vertical-align: top;">
+                          <td class="o_bg-dark o_br o_py-xs o_px-xs o_text-white" align="left" data-bgcolor="Bg Dark" data-color="White" style="background-color: #000000;color: #ffffff;border-radius: 4px;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <p class="o_curier o_caps" style="margin-top: 0px;margin-bottom: 0px;font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;text-transform: uppercase;font-size: 10px;line-height: 10px;letter-spacing: 1px;">Kovač vs Kovač</p>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <td style="font-size: 8px; line-height: 8px; height: 8px;">&nbsp; </td>
+                        </tr>
+                      
+                    </table>
+                    <h1 class="o_heading o_text-dark" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;color: #000000;margin-top: 0px;margin-bottom: 0px;font-size: 26px;line-height: 30px;"><a data-color="Dark" class="o_text-dark" href="#" style="text-decoration: none;outline: none;color: #000000;">A family feud</a></h1>
+                  </td>
+                </tr>
+                <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_pl-xl o_pr-xl o_sans o_text o_text-dark" align="left" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;padding-left: 104px;padding-right: 104px;border-bottom: 2px solid #FFCC00;">
+                    <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">
+                      NiKo's cousin and friends, or as they're better known, CR4ZY, take on NiKo and friends, or as they're better known, FaZe. <i>We wonder if the loser is no longer allowed at the dinner table at Christmas. </i>
+                    </p>
+                    <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">
+                     FaZe <b>will need to turn huNter- into the hunted</b> and stop the insatiable EspiranTo if they're to take the best of one, while CR4ZY will <b>need nexa to keep up his ridiculous form</b>.
+                    </p>
+                    <p class="o_mb-lg" style="margin-top: 0px;margin-bottom: 32px;">
+                      With YNk tweeting his joy at seeing a Serbian-based team at the Major, there's <b>more drama and storylines in this game</b> than in the final series of Game of Thrones. <i>There better be, anyway.
+                    </i></p>
+                  </td>
+                </tr>
+               
+              
+            </table>
+          </td>
+        </tr>
+      
+    </table><table data-module="story-header" data-group="story" data-thumbnail="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2019/08/28/UVGTpu1Eq63bOtLymcWoaDB5/tldr/thumbnails/story-header.png" width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+      
+        <tr>
+          <td class="o_bg-primary" align="center" data-bgcolor="Bg Primary" style="background-color: #FFCC00;">
+            <table class="o_block o_bg-white" cellspacing="0" cellpadding="0" border="0" role="presentation" data-bgcolor="Bg White" style="width: 800px;margin: 0 auto;background-color: #ffffff;">
+              
+                <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_pl-xl o_pr-xl o_pt o_pb o_sans o_text o_text-dark" align="left" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;padding-top: 16px;padding-bottom: 16px;padding-left: 104px;padding-right: 104px;">
+                    <table cellspacing="0" cellpadding="0" border="0" role="presentation">
+                      
+                        <tr style="vertical-align: top;">
+                          <td class="o_bg-dark o_br o_py-xs o_px-xs o_text-white" align="left" data-bgcolor="Bg Dark" data-color="White" style="background-color: #000000;color: #ffffff;border-radius: 4px;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <p class="o_curier o_caps" style="margin-top: 0px;margin-bottom: 0px;font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;text-transform: uppercase;font-size: 10px;line-height: 10px;letter-spacing: 1px;">Today's Matches</p>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <td style="font-size: 8px; line-height: 8px; height: 8px;">&nbsp; </td>
+                        </tr>
+                      
+                    </table>
+                    <h1 class="o_heading o_text-dark o_mb" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;color: #000000;margin-top: 0px;margin-bottom: 0px;font-size: 26px;line-height: 30px;"><a data-color="Dark" class="o_text-dark" href="#" style="text-decoration: none;outline: none;color: #000000;">Do or die and make sure to defuse this time</a></h1>
+                  
+                  </td>
+                </tr>
+              
+            </table>
+          </td>
+        </tr>
+      
+    </table>
+
+
+
+
+
+
+
+<table data-module="story-ranking-10" data-group="story" data-thumbnail="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2019/08/28/UVGTpu1Eq63bOtLymcWoaDB5/tldr/thumbnails/story-ranking-10.png" width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+      
+        <tr>
+          <td class="o_bg-primary" align="center" data-bgcolor="Bg Primary" style="background-color: #FFCC00;">
+            <table class="o_block o_bg-white" cellspacing="0" cellpadding="0" border="0" role="presentation" data-bgcolor="Bg White" style="width: 800px;margin: 0 auto;background-color: #ffffff;">
+              
+                <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_py" align="center" style="padding-top: 16px;padding-bottom: 16px;">
+                    <table class="o_col-full" align="center" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                      
+                        <tr style="vertical-align: top;">
+                          <td width="320" class="o_col-b o_bg-light o_py-xs o_px-xs" align="left" data-bgcolor="Bg Light" style="background-color: #F2F2F2;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                  <td width="40" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="right" valign="middle" data-bgcolor="Bg Dark" data-color="White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 13px;line-height: 22px;background-color: #000000;color: #ffffff;padding-left: 8px;padding-right: 8px;">
+                                    13:00
+                                  </td>
+                                  
+                                  <td class="o_py-xxs o_sans o_text-xs" align="left" valign="middle" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 14px;line-height: 18px;padding-top: 4px;padding-bottom: 4px;padding-left: 8px;"> <a href="https://www.hltv.org/matches/2335631/liquid-vs-avangar-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;color:#000;">
+                  <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/liquid.png" width="20" height="20" alt="liquid" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> Liquid vs. <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/avangar.png" width="20" height="20" alt="avangar" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> AVANGAR</a>
+                  </td>
+                  
+                  <td width="24" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="left" valign="middle" data-bgcolor="Bg Dark" data-color="White">
+                  <b> <a href="https://www.hltv.org/matches/2335631/liquid-vs-avangar-starladder-major-2019
+?ref=tldr" style="text-decoration: none;outline: none;color:#000;">⟶</a></b> 
+                                  </td>
+                                </tr>
+                              
+                            </table>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <td width="320" class="o_col-b o_py-xs o_px-xs" align="left" style="padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                   <td width="40" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="right" valign="middle" data-bgcolor="Bg Dark" data-color="White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 13px;line-height: 22px;background-color: #000000;color: #ffffff;padding-left: 8px;padding-right: 8px;">
+                                    13:00
+                                  </td>
+                                  
+                                  <td class="o_py-xxs o_sans o_text-xs" align="left" valign="middle" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 14px;line-height: 18px;padding-top: 4px;padding-bottom: 4px;padding-left: 8px;"> <a href="https://www.hltv.org/matches/2335630/natus-vincere-vs-mousesports-starladder-major-2019
+?ref=tldr" style="text-decoration: none;outline: none;color:#000;">
+                  <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/natus_vincere.png" width="20" height="20" alt="liquid" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> NaVi vs. <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/mousesports.png" width="20" height="20" alt="avangar" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> mouz</a>
+                  </td>
+                   <td width="24" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="left" valign="middle" data-bgcolor="Bg Dark" data-color="White">
+                  <b> <a href="https://www.hltv.org/matches/2335630/natus-vincere-vs-mousesports-starladder-major-2019" style="text-decoration: none;outline: none;color:#000;">⟶</a></b> 
+                                  </td>
+                                </tr>
+                              
+                            </table>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <td width="320" class="o_col-b o_bg-light o_py-xs o_px-xs" align="left" data-bgcolor="Bg Light" style="background-color: #F2F2F2;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                  <td width="40" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="right" valign="middle" data-bgcolor="Bg Dark" data-color="White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 13px;line-height: 22px;background-color: #000000;color: #ffffff;padding-left: 8px;padding-right: 8px;">
+                                    14:15
+                                  </td>
+                                  
+                                  <td class="o_py-xxs o_sans o_text-xs" align="left" valign="middle" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 14px;line-height: 18px;padding-top: 4px;padding-bottom: 4px;padding-left: 8px;"> <a href="https://www.hltv.org/matches/2335632/mibr-vs-g2-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;color:#000;">
+                  <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/mibr.png" width="20" height="20" alt="liquid" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> MIBR vs. <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/g2.png" width="20" height="20" alt="avangar" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> G2</a>
+                  </td>
+                   <td width="24" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="left" valign="middle" data-bgcolor="Bg Dark" data-color="White">
+                  <b> <a href="https://www.hltv.org/matches/2335632/mibr-vs-g2-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;color:#000;">⟶</a></b> 
+                                  </td>
+                                </tr>
+                              
+                            </table>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <td width="320" class="o_col-b o_py-xs o_px-xs" align="left" style="padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                 <td width="40" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="right" valign="middle" data-bgcolor="Bg Dark" data-color="White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 13px;line-height: 22px;background-color: #000000;color: #ffffff;padding-left: 8px;padding-right: 8px;">
+                                    14:15
+                                  </td>
+                                  
+                                  <td class="o_py-xxs o_sans o_text-xs" align="left" valign="middle" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 14px;line-height: 18px;padding-top: 4px;padding-bottom: 4px;padding-left: 8px;"> <a href="https://www.hltv.org/matches/2335633/faze-vs-cr4zy-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;color:#000;">
+                  <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/faze.png" width="20" height="20" alt="liquid" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> FaZe vs. <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/cr4zy.png" width="20" height="20" alt="avangar" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> CR4ZY</a>
+                  </td>
+                   <td width="24" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="left" valign="middle" data-bgcolor="Bg Dark" data-color="White">
+                  <b> <a href="https://www.hltv.org/matches/2335633/faze-vs-cr4zy-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;color:#000;">⟶</a></b> 
+                                  </td>
+                                </tr>
+                              
+                            </table>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <td width="320" class="o_col-b o_bg-light o_py-xs o_px-xs" align="left" data-bgcolor="Bg Light" style="background-color: #F2F2F2;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                  <td width="40" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="right" valign="middle" data-bgcolor="Bg Dark" data-color="White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 13px;line-height: 22px;background-color: #000000;color: #ffffff;padding-left: 8px;padding-right: 8px;">
+                                    15:30
+                                  </td>
+                                  
+                                  <td class="o_py-xxs o_sans o_text-xs" align="left" valign="middle" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 14px;line-height: 18px;padding-top: 4px;padding-bottom: 4px;padding-left: 8px;"> <a href="https://www.hltv.org/matches/2335634/ence-vs-vitality-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;color:#000;">
+                  <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/ence.png" width="20" height="20" alt="liquid" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> ENCE vs. <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/vitality.png" width="20" height="20" alt="avangar" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> Vitality (BO3)</a>
+                  </td>
+                   <td width="24" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="left" valign="middle" data-bgcolor="Bg Dark" data-color="White">
+                  <b> <a href="https://www.hltv.org/matches/2335634/ence-vs-vitality-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;color:#000;">⟶</a></b> 
+                                  </td>
+                                </tr>
+                              
+                            </table>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <td width="320" class="o_col-b o_bg-light o_py-xs o_px-xs" align="left" data-bgcolor="Bg Light" style="background-color: #FFF;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                  <td width="40" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="right" valign="middle" data-bgcolor="Bg Dark" data-color="White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 13px;line-height: 22px;background-color: #000000;color: #ffffff;padding-left: 8px;padding-right: 8px;">
+                                    15:30
+                                  </td>
+                                  
+                                  <td class="o_py-xxs o_sans o_text-xs" align="left" valign="middle" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 14px;line-height: 18px;padding-top: 4px;padding-bottom: 4px;padding-left: 8px;"> <a href="https://www.hltv.org/matches/2335635/renegades-vs-dreameaters-starladder-major2019?ref=tldr" style="text-decoration: none;outline: none;color:#000;">
+                  <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/renegades.png" width="20" height="20" alt="liquid" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> Rene... vs. <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/dream_eaters.png" width="20" height="20" alt="avangar" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> Dream (BO3)</a>
+                  </td>
+                   <td width="24" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="left" valign="middle" data-bgcolor="Bg Dark" data-color="White">
+                  <b> <a href="https://www.hltv.org/matches/2335635/renegades-vs-dreameaters-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;color:#000;">⟶</a></b> 
+                                  </td>
+                                </tr>
+                              
+                            </table>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <td width="320" class="o_col-b o_bg-light o_py-xs o_px-xs" align="left" data-bgcolor="Bg Light" style="background-color: #F2F2F2;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                 <td width="40" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="right" valign="middle" data-bgcolor="Bg Dark" data-color="White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 13px;line-height: 22px;background-color: #000000;color: #ffffff;padding-left: 8px;padding-right: 8px;">
+                                    18:45
+                                  </td>
+                                  
+                                  <td class="o_py-xxs o_sans o_text-xs" align="left" valign="middle" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 14px;line-height: 18px;padding-top: 4px;padding-bottom: 4px;padding-left: 8px;"> <a href="https://www.hltv.org/matches/2335636/astralis-vs-nrg-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;color:#000;">
+                  <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/astralis.png" width="20" height="20" alt="astralis" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> Astralis vs. <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/nrg.png" width="20" height="20" alt="nrg" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> NRG (BO3)</a>
+                  </td>
+                   <td width="24" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="left" valign="middle" data-bgcolor="Bg Dark" data-color="White">
+                  <b> <a href="https://www.hltv.org/matches/2335636/astralis-vs-nrg-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;color:#000;">⟶</a></b> 
+                                  </td>
+                                </tr>
+                              
+                            </table>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <td width="320" class="o_col-b o_py-xs o_px-xs" align="left" style="padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+                              
+                                <tr style="vertical-align: top;">
+                                  <td width="40" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="right" valign="middle" data-bgcolor="Bg Dark" data-color="White" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;font-size: 13px;line-height: 22px;background-color: #000000;color: #ffffff;padding-left: 8px;padding-right: 8px;">
+                                    18:45
+                                  </td>
+                                  
+                                  <td class="o_py-xxs o_sans o_text-xs" align="left" valign="middle" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 14px;line-height: 18px;padding-top: 4px;padding-bottom: 4px;padding-left: 8px;"> <a href="https://www.hltv.org/matches/2335637/nip-vs-north-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;color:#000;">
+                  <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/nip.png" width="20" height="20" alt="nip" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> NiP vs. <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/team_logos/north.png" width="20" height="20" alt="north" style="max-width: 20px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"> North (BO3)</a>
+                  </td>
+                   <td width="24" class="o_bg-dark o_curier o_bold o_text-xxs2 o_text-white o_px-xs" align="left" valign="middle" data-bgcolor="Bg Dark" data-color="White">
+                  <b> <a href="https://www.hltv.org/matches/2335637/nip-vs-north-starladder-major-2019?ref=tldr" style="text-decoration: none;outline: none;color:#000;">⟶</a></b> 
+                                  </td>
+                                </tr>
+                              
+                            </table>
+						   </td></tr><tr style="vertical-align: top;">
+                  <td width="320" class="o_col-b o_py-xs o_px-xs" align="left" style="padding-left: 8px;padding-right: 0px;padding-top: 0px;padding-bottom: 0px;">
+                     <p class="o_right o_text-xxxs2 o_text-grey o_mb-md" data-color="Grey" style="margin-top: 4px;margin-bottom: 0px;font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 11px;line-height: 10px;color: #7C7C7C;text-align: right;">
+                      All times are CEST (UTC+2)
+                    </p>
+                  </td>
+                </tr>
+                          
+                        
+                                           
+                    </table>
+                  </td>
+                </tr>
+              
+            </table>
+          </td>
+        </tr>
+      <tr>
+          <td class="o_bg-primary" align="center" data-bgcolor="Bg Primary" style="background-color: #FFCC00;">
+            <table class="o_block o_bg-white" cellspacing="0" cellpadding="0" border="0" role="presentation" data-bgcolor="Bg White" style="width: 800px;margin: 0 auto;background-color: #ffffff;">
+              
+                <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_pl-xl o_pr-xl o_pt-md o_sans o_text o_text-dark" align="left" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;padding-top: 12px;padding-left: 104px;padding-right: 104px;border-bottom: 2px solid #FFCC00;">
+                    <ul class="o_mb-md" style="padding-left: 24px;margin-bottom: 24px;">
+                      <li class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">
+						<b>Scandi-mania!</b> <i>One legendary team</i> won't be returning to the Major Qualifier next time around - not without traversing the EU Minor, at least.
+                      </li>
+                      <li class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">
+                        <b>King de Jong</b>: Arguably the <i>greatest player ever to touch the game</i> takes on s1mple in Natus Vincere vs mousesports at 13:00 CEST.
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+              
+            
+    </table></td></tr></table>
+          
+        
+      
+    
+          
+        
+      
+    <table data-module="story-c" data-group="story" data-thumbnail="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2019/08/28/UVGTpu1Eq63bOtLymcWoaDB5/tldr/thumbnails/story-c.png" width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+      
+        <tr>
+          <td class="o_bg-primary" align="center" data-bgcolor="Bg Primary" style="background-color: #FFCC00;">
+            <table class="o_block o_bg-white" cellspacing="0" cellpadding="0" border="0" role="presentation" data-bgcolor="Bg White" style="width: 800px;margin: 0 auto;background-color: #ffffff;">
+              
+                <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_pl-xl o_pr-xl o_pt o_pb o_sans o_text o_text-dark" align="left" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;padding-top: 16px;padding-bottom: 16px;padding-left: 104px;padding-right: 104px;">
+                    <table cellspacing="0" cellpadding="0" border="0" role="presentation">
+                      
+                        <tr style="vertical-align: top;">
+                          <td class="o_bg-dark o_br o_py-xs o_px-xs o_text-white" align="left" data-bgcolor="Bg Dark" data-color="White" style="background-color: #000000;color: #ffffff;border-radius: 4px;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <p class="o_curier o_caps" style="margin-top: 0px;margin-bottom: 0px;font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;text-transform: uppercase;font-size: 10px;line-height: 10px;letter-spacing: 1px;">ELSEWHERE</p>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top;">
+                          <td style="font-size: 8px; line-height: 8px; height: 8px;">&nbsp; </td>
+                        </tr>
+                      
+                    </table>
+                    <h1 class="o_heading o_text-dark" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: bold;color: #000000;margin-top: 0px;margin-bottom: 0px;font-size: 26px;line-height: 30px;"><a data-color="Dark" class="o_text-dark" href="#" style="text-decoration: none;outline: none;color: #000000;">Fast news</a></h1>
+                  </td>
+                </tr>
+				  
+				  <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_pl-xl o_pr-xl o_pt-md o_sans o_text o_text-dark" align="left" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;padding-top: 0px;padding-left: 104px;padding-right: 104px;border-bottom: 2px solid #FFCC00;">
+                    <ul class="o_mb-md" style="padding-left: 24px;margin-bottom: 24px;">
+					  
+					   <li class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">
+						 Turns out Thorin wasn't the only one making a surprise appearance in Berlin - <a data-color="Secondary" class="o_text-secondary o_underline" href="https://twitter.com/thooorin/status/775049508526764032" style="text-decoration: none;outline: none;color: #5200FF;display: inline-block;border-bottom-width: 2px;border-bottom-style: solid;"><span data-color="Dark" class="o_text-dark" style="color: #000000;">this three year old tweet</span></a> has aged better than a certain NiP player, and every move since they let Fifflaren go.
+                      </li>
+					   <li class="o_mb" style="margin-top: 0px;margin-bottom: 16px;">
+						 We can only assume we missed this the first time because StarLadder were in charge of the observing on our Twitter timeline. Thankfully, <b><a data-color="Secondary" class="o_text-secondary o_underline" href="https://twitter.com/Sliggycsgo/status/1167115449638817792" style="text-decoration: none;outline: none;color: #5200FF;display: inline-block;border-bottom-width: 2px;border-bottom-style: solid;"><span data-color="Dark" class="o_text-dark" style="color: #000000;">Sliggy confirmed</span></a> he has flown in</b> to lead the blind into observing nirvana.
+                      </li>
+                      <li class="o_mb" style="margin-top: 0px;margin-bottom: 32px;"><b>
+						Gotta go fast</b> (<i>if you want to pick up either Sonic or Kvik</i>)! Sonic is reportedly <a data-color="Secondary" class="o_text-secondary o_underline" href="https://twitter.com/RushBMediaGG/status/1166488094889168901" style="text-decoration: none;outline: none;color: #5200FF;display: inline-block;border-bottom-width: 2px;border-bottom-style: solid;"><span data-color="Dark" class="o_text-dark" style="color: #000000;">leaving Team Envy</span></a> whilst Kvik is now a free agent ready to inject some speed into a team. You were too slow to <a data-color="Secondary" class="o_text-secondary o_underline" href="https://twitter.com/heroicgg/status/1167021958522920961" style="text-decoration: none;outline: none;color: #5200FF;display: inline-block;border-bottom-width: 2px;border-bottom-style: solid;"><span data-color="Dark" class="o_text-dark" style="color: #000000;">catch Snappi</span></a>, though, <b>who will get his teeth into Heroic's changing roster</b>.
+                      </li>
+                     
+                    </ul>
+                  </td>
+				  </tr>
+            </table>
+          </td>
+        </tr>
+      
+    </table><table data-module="nps" data-group="content" data-thumbnail="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2019/08/28/UVGTpu1Eq63bOtLymcWoaDB5/tldr/thumbnails/nps.png" width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" style="opacity: 1;">
+      
+        <tr>
+          <td class="o_bg-primary" align="center" data-bgcolor="Bg Primary" style="background-color: #FFCC00;">
+            <table class="o_block o_bg-primary" cellspacing="0" cellpadding="0" border="0" role="presentation" data-bgcolor="Bg Primary" style="width: 800px;margin: 0 auto;background-color: #FFCC00;">
+              
+                <tr style="vertical-align: top;">
+                  <td colspan="3" width="592" class="o_pl-xl o_pr-xl o_xs-px o_pt o_pb-xs" align="left" style="padding-top: 16px;padding-bottom: 8px;padding-left: 104px;padding-right: 104px;">
+                    <table cellspacing="0" cellpadding="0" border="0" role="presentation">
+                      
+                        <tr style="vertical-align: top;">
+                          <td class="o_bg-dark o_br o_py-xs o_px-xs o_text-white" align="left" data-bgcolor="Bg Dark" data-color="White" style="background-color: #000000;color: #ffffff;border-radius: 4px;padding-left: 8px;padding-right: 8px;padding-top: 8px;padding-bottom: 8px;">
+                            <p class="o_curier o_caps" style="margin-top: 0px;margin-bottom: 0px;font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: bold;text-transform: uppercase;font-size: 10px;line-height: 10px;letter-spacing: 1px;color:inhereit !important;text-decoration: none !important;">rate today’s mail</p>
+                          </td>
+                        </tr>
+                      
+                    </table>
+                  </td>
+                </tr>
+                <tr style="vertical-align: top;">
+                  <th width="33%" class="o_pl-xl o_pr-xs o_xs-px o_pt o_pb-lg o_xs-pb-0 o_sans o_text" align="center" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;padding-top: 16px;padding-bottom: 32px;padding-left: 104px;padding-right: 8px;">
+                    <a class="o_text-dark o_bold" href="https://docs.google.com/forms/d/e/1FAIpQLSeaomiTDm64EUQuwIF2uFVABA3UmUpG_ZIEbV54RKLaaDG3Hw/viewform" data-color="Dark" style="text-decoration: none;outline: none;font-weight: bold;color: #000000;">
+                      <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/icons/rate-good.png" width="75" height="75" alt="" style="max-width: 80px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;"><br><br>
+                      Good
+                    </a>
+                  </th>
+                  <th class="o_px-xs o_xs-px o_pt o_pb-lg o_xs-pb-0 o_sans o_text" align="center" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;padding-left: 8px;padding-right: 8px;padding-top: 16px;padding-bottom: 32px;">
+                    <a data-color="Dark" class="o_text-dark o_bold" href="https://docs.google.com/forms/d/e/1FAIpQLSeaomiTDm64EUQuwIF2uFVABA3UmUpG_ZIEbV54RKLaaDG3Hw/viewform" style="text-decoration: none;outline: none;font-weight: bold;color: #000000;">
+                      <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/icons/rate-average.png" width="75" height="75" alt="" style="max-width: 80px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;"><br><br>
+                      Average
+                    </a>
+                  </th>
+                  <th width="33%" class="o_pr-xl o_pl-xs o_xs-px o_pt o_pb-lg o_sans o_text o_text-dark" align="center" data-color="Dark" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 21px;color: #000000;padding-top: 16px;padding-bottom: 32px;padding-left: 8px;padding-right: 104px;">
+                    <a data-color="Dark" class="o_text-dark o_bold" href="https://docs.google.com/forms/d/e/1FAIpQLSeaomiTDm64EUQuwIF2uFVABA3UmUpG_ZIEbV54RKLaaDG3Hw/viewform" style="text-decoration: none;outline: none;font-weight: bold;color: #000000;">
+                      <img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/icons/rate-bad.png" width="75" height="75" alt="" style="max-width: 80px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;"><br><br>
+                      Bad
+                    </a>
+                  </th>
+                </tr>
+              
+            </table>
+          </td>
+        </tr>
+      
+    </table><table data-module="footer-d " data-group="footer" data-thumbnail="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2019/08/28/UVGTpu1Eq63bOtLymcWoaDB5/tldr/thumbnails/footer-d.png" width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" style="opacity: 1;">
+      
+        <tr>
+          <td class="o_bg-primary" align="center" data-bgcolor="Bg Primary" style="background-color: #FFCC00;">
+            <table class="o_block o_bg-grey" cellspacing="0" cellpadding="0" border="0" role="presentation" data-bgcolor="Bg Grey" style="width: 800px;margin: 0 auto;background-color: #1C1C1C;">
+              
+                <tr style="vertical-align: top;">
+                  <td width="592" class="o_col o_pl-xl o_pr-xl o_py-lg o_curier o_text-grey o_text-xs" align="center" data-color="Grey" style="font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;font-weight: normal;font-size: 14px;line-height: 18px;color: #7C7C7C;padding-top: 32px;padding-bottom: 32px;padding-left: 104px;padding-right: 104px;">
+                    <p class="o_mb-lg" style="margin-top: 0px;margin-bottom: 32px;">
+                      <a href="https://www.readtldr.gg/" style="text-decoration: none;outline: none;"><img src="https://ac-image.s3.amazonaws.com/9/1/2/3/4/0/home/admin/tldr_logo/tldrlogo_aug28_yellow.png" width="124" height="56" alt="tldr logo" style="max-width: 124px; vertical-align: middle; border: 0px; line-height: 100%; outline: none; text-decoration: none;"></a>
+                    </p>
+                 
+                    <p class="o_mb-lg" style="margin-top: 0px;margin-bottom: 32px;">
+                      You’re getting the tl;dr because you signed up for it. If you want to be that gamer who drops mid match, <a data-color="Grey" class="o_underline o_bold o_text-grey" href="*|unsubscribe|*" style="text-decoration: none;outline: none;font-weight: bold;color: #7C7C7C;display: inline-block;border-bottom-width: 2px;border-bottom-style: solid;">unsubscribe here</a>.
+                    </p>
+                    <p class="o_text-xxs" style="margin-top: 0px;margin-bottom: 0px;font-size: 12px;line-height: 14px;color:inhereit !important;text-decoration: none !important;">
+                      Copyright © 2019 TLDR ApS<br>
+						303 Milehigh Road. El Dorado, 1337. Denmark.
+                    </p>
+                  </td>
+                </tr>
+              
+            </table>
+          </td>
+        </tr>
+      
+    </table>
+
+
+
+
+
+</body>
+</html>
