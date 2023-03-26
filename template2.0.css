@@ -504,6 +504,11 @@ h3 {
     mso-hide: all;
 }
 
+    table.es-table-not-adapt,
+    .esd-block-html table {
+        width: 100% !important;
+    }
+
 /* RESPONSIVE STYLES Please do not delete and edit CSS styles below. If you don't need responsive layout, please delete this section. */
 @media only screen and (max-width: 600px) {
 
