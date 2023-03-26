@@ -701,7 +701,7 @@ h3 {
 
     table.es-table-not-adapt,
     .esd-block-html table {
-        width: auto !important;
+        width: 100% !important;
     }
 
     table.es-social {
