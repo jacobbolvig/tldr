@@ -81,30 +81,30 @@ table tr {
     border-collapse: collapse;
 }
 
-.newsletter p {
+p.newsletter {
 font-family: helvetica, 'helvetica neue', arial, verdana, sans-serif;
 }
 
-.newsletter p,
+p.newsletter,
 hr {
     Margin: 0;
 }
 
-.newsletter h1,
-.newsletter h2,
-.newsletter h3,
-.newsletter h4,
-.newsletter h5 {
+ h1.newsletter,
+ h2.newsletter,
+ h3.newsletter,
+ h4.newsletter,
+ h5.newsletter {
     Margin: 0;
     line-height: 120%;
     mso-line-height-rule: exactly;
     font-family: helvetica, 'helvetica neue', arial, verdana, sans-serif;
 }
 
-.newsletter p,
-.newsletter ul li,
-.newsletter ol li,
-.newsletter a {
+ p.newsletter,
+ ul li.newsletter,
+ ol li.newsletter,
+ a.newsletter {
     -webkit-text-size-adjust: none;
     -ms-text-size-adjust: none;
     mso-line-height-rule: exactly;
@@ -314,19 +314,19 @@ hr {
 }
 
 /* END CONFIG STYLES */
-.newsletter a {
+ a.newsletter {
     text-decoration: underline;
 }
 
-.newsletter p,
-.newsletter ul li,
-.newsletter ol li {
+ p.newsletter,
+ ul li.newsletter,
+ ol li.newsletter {
     font-family: helvetica, 'helvetica neue', arial, verdana, sans-serif;
     line-height: 140%;
 }
 
-.newsletter ul li,
-.newsletter ol li {
+ul li.newsletter,
+ol li.newsletter {
     color: inherit;
     margin-left: 0;
     margin-bottom: 15px;
@@ -425,21 +425,21 @@ hr {
     color: #cccccc;
 }
 
-.newsletter h1 {
+h1.newsletter {
     font-size: 26px;
     font-style: normal;
     font-weight: bold;
     color: #000000;
 }
 
-.newsletter h2 {
+h2.newsletter {
     font-size: 22px;
     font-style: normal;
     font-weight: bold;
     color: #000000;
 }
 
-.newsletter h3 {
+ h3.newsletter {
     font-size: 18px;
     font-style: normal;
     font-weight: bold;
