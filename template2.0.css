@@ -81,6 +81,10 @@ table tr {
     border-collapse: collapse;
 }
 
+.newsletter p {
+font-family: helvetica, 'helvetica neue', arial, verdana, sans-serif;
+}
+
 .newsletter p,
 hr {
     Margin: 0;
