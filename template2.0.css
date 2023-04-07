@@ -374,6 +374,8 @@ ol li.newsletter {
 
 .es-content-body {
     background-color: #ffffff;
+    font-family: helvetica, 'helvetica neue', arial, verdana, sans-serif;
+
 }
 
 .es-content-body p,
@@ -381,6 +383,8 @@ ol li.newsletter {
 .es-content-body ol li {
     color: #000000;
     font-size: 16px;
+    margin-top: 0px;
+    
 }
 
 .es-content-body a {
