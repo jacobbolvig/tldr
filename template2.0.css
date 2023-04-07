@@ -46,17 +46,6 @@ s {
     text-decoration: line-through;
 }
 
-html,
-body {
-    width: 100%;
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
-}
-
-body {
-    font-family: helvetica, 'helvetica neue', arial, verdana, sans-serif;
-}
-
 table {
     mso-table-lspace: 0pt;
     mso-table-rspace: 0pt;
@@ -321,19 +310,19 @@ hr {
 }
 
 /* END CONFIG STYLES */
-a {
+.newsletter a {
     text-decoration: underline;
 }
 
-p,
-ul li,
-ol li {
+.newsletter p,
+.newsletter ul li,
+.newsletter ol li {
     font-family: helvetica, 'helvetica neue', arial, verdana, sans-serif;
     line-height: 140%;
 }
 
-ul li,
-ol li {
+.newsletter ul li,
+.newsletter ol li {
     color: inherit;
     margin-left: 0;
     margin-bottom: 15px;
@@ -432,21 +421,21 @@ ol li {
     color: #cccccc;
 }
 
-h1 {
+.newsletter h1 {
     font-size: 26px;
     font-style: normal;
     font-weight: bold;
     color: #000000;
 }
 
-h2 {
+.newsletter h2 {
     font-size: 22px;
     font-style: normal;
     font-weight: bold;
     color: #000000;
 }
 
-h3 {
+.newsletter h3 {
     font-size: 18px;
     font-style: normal;
     font-weight: bold;
@@ -512,33 +501,33 @@ h3 {
 /* RESPONSIVE STYLES Please do not delete and edit CSS styles below. If you don't need responsive layout, please delete this section. */
 @media only screen and (max-width: 600px) {
 
-    p,
-    ul li,
-    ol li,
-    a {
+    .newsletter p,
+    .newsletter ul li,
+    .newsletter ol li,
+    .newsletter a {
         line-height: 140% !important;
     }
 
-    h1,
-    h2,
-    h3,
-    h1 a,
-    h2 a,
-    h3 a {
+    .newsletter h1,
+    .newsletter h2,
+    .newsletter h3,
+    .newsletter h1 a,
+    .newsletter h2 a,
+    .newsletter h3 a {
         line-height: 120% !important;
     }
 
-    h1 {
+    .newsletter h1 {
         font-size: 28px !important;
         text-align: inherit;
     }
 
-    h2 {
+    .newsletter h2 {
         font-size: 24px !important;
         text-align: inherit;
     }
 
-    h3 {
+    .newsletter h3 {
         font-size: 20px !important;
         text-align: inherit;
     }
