@@ -545,6 +545,19 @@ h2 {
 .dd p {
     padding-left: 33px !important;
     padding-right: 33px !important;
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    mso-line-height-rule: exactly;
+    font-family: helvetica, 'helvetica neue', arial, verdana, sans-serif;
+    line-height: 22px;
+    font-size: 16px;
+}
+
+.dd a {
+    word-break: break-word;
+    color: #b18a00 !important;
+    text-decoration: underline;
+    text-decoration-color: #b18a00;
 }
 
 td .f {
