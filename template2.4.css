@@ -527,6 +527,163 @@ h2.newsletter {
         width: 100% !important;
     }
 
+.gg {
+    background-repeat: repeat;
+    background-position: center top;
+    background-image: url(https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d42e53d2-6d8c-454f-a361-fceaed1a8685/noise_background.png);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding-left: 33px !important;
+    padding-right: 33px !important;
+}
+
+h2 {
+    padding-top: 8px;
+}
+
+.dd p {
+    padding-left: 33px !important;
+    padding-right: 33px !important;
+}
+
+td .f {
+    padding-bottom: 4px !important;
+    padding-top: 4px !important;
+    padding-right: 8px !important;
+    background: #323232 !important;
+}
+
+.f p {
+    font-size: 11px;
+    line-height: 12px;
+    font-family: Courier New, Courier, monospace !important;
+    color: #d3d3d3 !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+}
+
+.f p a {
+    color: #ffda5b !important;
+    font-style: normal !important;
+}
+
+p .i {
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    font-size: 11px !important;
+    line-height: 16px !important;
+    margin-bottom: 0px !important;
+}
+
+.v a {
+    font-size: 14px !important;
+}
+
+.v  {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+}
+
+p.label {
+    background-color: #ffedad; 
+    padding: 4px 6px;
+    font-size: 11px; 
+    line-height: 122%;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 33px !important;
+    margin-top: 20px;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+}
+
+p.leadin {
+    font-size: 17px;
+    margin-top: 20px;
+    margin-left: 33px;
+    margin-right: 33px;
+}
+
+.t p {
+    font-size: 11px !important;
+}
+
+.t a {
+    color: #6a6a6a !important;
+    text-decoration-color: #6a6a6a !important;
+}
+
+.mh {
+     padding-bottom: 16px;    
+     padding-left: 33px;
+    padding-right: 33px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.mhs {
+     font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 22px;
+    background-color: #FFD633;
+}
+
+.b p {
+     font-size: 13px;
+     line-height: 18px;
+     padding-bottom: 12px;
+}
+
+
+.w p {
+    font-size: 11px;
+    line-height: 12px;
+    padding-bottom: 4px;
+}
+
+.fwd {
+    display: inline-block;
+    background: #ffda5b;
+    padding: 7px 0px 7px 0;
+    margin-bottom: 8px;
+    text-align: center;
+    width: 100%;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.fwd a {
+    color: #242424;
+}
+
+.fwdt {
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: #ffda5b;
+}
+
+.fwdt a {
+    text-align: center;
+    color: #ffda5b;
+}
+
+
 /* RESPONSIVE STYLES Please do not delete and edit CSS styles below. If you don't need responsive layout, please delete this section. */
 @media only screen and (max-width: 600px) {
 
